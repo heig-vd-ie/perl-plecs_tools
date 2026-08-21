@@ -8,6 +8,13 @@ VS Code is a source-code editor, it include usefull features like debugging supp
 
 Use this installation [help](https://code.visualstudio.com/docs/setup/windows#_install-vs-code-on-windows) to guide you through the *VSCode* installation.
 
+Then install the following extensions : 
+- Jupyter
+- Python
+- Pylance
+- Python Debugger
+- Python Environement
+
 ## Git Setup
 
 Be sure git is installed correctly on your computer by following [this quick tutorial](https://linuxhint.com/install-git-on-windows/). After installation, restart the computer. 
