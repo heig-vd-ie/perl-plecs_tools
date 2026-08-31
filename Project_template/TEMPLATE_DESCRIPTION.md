@@ -4,7 +4,7 @@ Welcome to the project template! This repository follows a structured, modular t
 
 ---
 
-## 📂 Project Directory Structure
+## Project Directory Structure
 
 ```text
 Project_template/
@@ -25,7 +25,7 @@ Project_template/
 
 ---
 
-## ⚙️ Detailed Folder & File Breakdown
+## Detailed Folder & File Breakdown
 
 ### **1. Core Directories**
 
@@ -107,7 +107,7 @@ Project_template/
 
 ---
 
-## 🚀 Getting Started & How to Use
+## Getting Started & How to Use
 
 ### Prerequisites & Environment Setup
 
