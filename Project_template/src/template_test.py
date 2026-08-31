@@ -1,5 +1,4 @@
-def print_hello(nb_times: int = 1):
-    """Prints 'Hello, World!' a specified number of times."""
-    for n in range(nb_times):
+def print_hello(nb_print=1):
+    for _ in range(nb_print):
         print("Hello, World!")
 
