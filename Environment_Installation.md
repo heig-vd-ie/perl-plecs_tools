@@ -61,7 +61,7 @@ To work locally on your computer, clone a repository.
     - Clone the repository :
         - **Using Git Terminal** : First, go to the GitHub website, navigate to the repository page and copy the SSH link as shown in the image below. Then using a Git Bash terminal, navigate to the folder you created earlier. Enter the command `git clone` and copy the SSH link and type `yes`to accept the warning.
           ```bash
-            git clone git@github.com:heig-vd-ie/rhtlab.git
+            git clone git@github.com:heig-vd-ie/perl-plecs_tools.git
             ```
             ![alt text](Images/image.png)
         - **Using GitHub Desktop** : Go to GitHub Desktop and clone the repository as shown in the following image. Select the repository to clone and the location of the folder you created earlier
