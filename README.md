@@ -34,16 +34,6 @@ parameters. - Evaluates the simulation results using a defined **cost
 function**. - Iteratively changes the controller parameters. - Searches
 for PI parameters that minimize the selected cost function.
 
-* ### Project Template
-
-The **Project Template** is a starting template for creating new
-projects.
-
-It provides a predefined project structure and configuration that can be
-reused when starting a new PLECS-related project. The goal is to keep
-projects consistent and reduce the amount of setup required for each new
-project.
-
 * ### Simulation Runner
 
 The **Simulation Runner** is a project designed to automate **PLECS
