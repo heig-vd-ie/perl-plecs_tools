@@ -27,7 +27,7 @@ Both files must be in the **same folder**.
 ### Python packages
 
 ```bash
-pip install plotly scipy numpy
+uv pip install -r requirements.txt
 ```
 
 | Package | Used for |
@@ -51,9 +51,11 @@ Before running any simulation:
 4. Confirm the port is **1080** (or update `PLECS_HOST` in the notebook)
 5. **Restart PLECS** for the change to take effect
 
-> PLECS should be open but the model should be close.  
-> The Python script and PLECS must run on the **same machine**.  
+> PLECS should be open but the model should be close.    
 > The XML-RPC connection always uses `localhost`.
+> **Environment:** To use the following project, you must set up a Windows environment. To connect Plecs to the Python environment, both systems must be running the same operating system. Instructions for setting up the Windows environment are available in the Environment_Installation.
+
+
 
 ---
 
