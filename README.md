@@ -8,6 +8,8 @@ with simulations, control optimization, and project setup.
 > When working with one of the projects in VS Code, you should open
 > **only that project folder** as your VS Code workspace.
 
+> **Environment:** To use the following projects, you must set up a Windows environment. To connect Plecs to the Python environment, both systems must be running the same operating system. Instructions for setting up the Windows environment are available in the [Environment_Installation](https://github.com/heig-vd-ie/perl-plecs_tools/blob/main/Environment_Installation.md).
+
 ## Repository Structure
 
 The repository is organized into several projects:
